@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/2026数二/高等数学/二重积分.md",
+                "file": "日记/每日/2026/2026-08/2026-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二重积分"
+              "title": "2026-08-16"
             }
           }
         ]
@@ -185,9 +185,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ca9b59c2d5bf3b78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -205,8 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32c0a54350c7f1c5",
+  "active": "59436593fd792e3b",
   "lastOpenFiles": [
+    "考研数学/2026数二/高等数学/二重积分.md",
+    "日记/每日/2026/2026-08/2026-08-16.md",
+    "README.md",
+    "LICENSE",
     "考研数学/2026数二/高等数学/定积分及其应用.md",
     "考研数学/2026数二/复习/复习任务.md",
     "考研数学/2026数二/高等数学/多元函数微分学及其应用.md",
@@ -232,9 +246,6 @@
     "日记/每日/2026/2026-08/2026-08-04.md",
     "日记/每日/2026/2026-08/2026-08-12.md",
     "日记/每日/2026/2026-08/2026-08-07.md",
-    "日记/每日/2026/2026-08/2026-08-06.md",
-    "考研数学/2026数二/高等数学/求极限专题总结.md",
-    "考研数学/2026数二/高等数学/不定积分.md",
     "日记/每日/2026/2026-08",
     "考研数学/2026数二/学习进度.base",
     "未命名.base",
@@ -244,7 +255,6 @@
     "日记/模板",
     "日记/小短篇",
     "日记/人物与地点",
-    "日记",
     "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-128.jpg",
     "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-127.jpg",
     "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-126.jpg",
