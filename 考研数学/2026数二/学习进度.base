@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.hasTag("考研数学/数二")
+    - file.ext == "md"
+formulas:
+  距下次复习天数: if(下次复习, (date(下次复习) - today()).days, "")
+properties:
+  模块:
+    displayName: 模块
+  类型:
+    displayName: 类型
+  状态:
+    displayName: 状态
+  当前掌握度:
+    displayName: 掌握度
+  下次复习:
+    displayName: 下次复习
+  formula.距下次复习天数:
+    displayName: 距复习天数
+views:
+  - type: table
+    name: 全部学习条目
+    order:
+      - file.name
+      - 模块
+      - 类型
+      - 状态
+      - 当前掌握度
+      - 下次复习
+      - formula.距下次复习天数
+  - type: table
+    name: 待复习
+    filters:
+      and:
+        - 下次复习
+        - date(下次复习) <= today()
+    order:
+      - file.name
+      - 模块
+      - 当前掌握度
+      - 下次复习
+      - formula.距下次复习天数
+  - type: table
+    name: 待订正错题
+    filters:
+      and:
+        - 类型 == "错题"
+        - 状态 == "待订正"
+    order:
+      - file.name
+      - 模块
+      - 错因
+      - 下次复习

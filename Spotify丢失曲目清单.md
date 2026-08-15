@@ -1,0 +1,202 @@
+---
+title: Spotify 丢失曲目清单
+tags:
+  - 音乐/Spotify
+  - 待办
+source: Tune My Music
+total: 185
+---
+
+# Spotify 丢失曲目清单
+
+> [!info]
+> 在 Spotify 手动补回歌曲后，勾选对应条目即可。
+
+## 待补曲目（185）
+
+- [ ] SASIOVERLXRD - 不安人(Prod.RRAREBEAR)
+- [ ] 艾志恒Asen, THOME - 坠毁
+- [ ] Thresher Shark - 独一档-SASI
+- [ ] Natsuko - Go-To girl
+- [ ] Natsuko - Natsuko
+- [ ] skiboyvv - 伪装
+- [ ] きのこ帝国 - ロンググッドバイ
+- [ ] きのこ帝国 - 退屈しのぎ
+- [ ] EGOIST - Departures〜あなたにおくるアイの歌〜
+- [ ] indigo la End - 夏夜のマジック
+- [ ] 上白石萌音, 内澤崇仁 - ハッピーエンド
+- [ ] 當山みれい - ^^
+- [ ] 艾志恒Asen, 付思遥 - 小镇爱（Thug Love）
+- [ ] 竹内まりや - Plastic Love (New-Remix)
+- [ ] Frank Ocean - Acura Integurl
+- [ ] KITO, Vansdaddy, Monovisa - 绿皮火车
+- [ ] ヨルシカ - ヒッチコック
+- [ ] Vansdaddy - 把爱埋葬秋叶原(❤´艸｀❤)
+- [ ] 坂本秀一 - わたしを追いかけて (追逐我)
+- [ ] 坂本秀一 - コウを追いかけて (追逐阿航)
+- [ ] あたらよ - 嘘つき
+- [ ] KenRobb - 诅咒
+- [ ] Vansdaddy - 松鼠鱼
+- [ ] 水樹奈々 - SOUND OF DESTINY
+- [ ] 篠原悠那 - クライスラー：愛の悲しみ
+- [ ] 张方钊, 河北吴孟达, 卡力老虎, WASTED CLUB - 花瓣儿
+- [ ] GALI, 艾志恒Asen, 派克特（PACT） - 迷宫 (MAZE)
+- [ ] 4dv*, clef, ODD陈思键 - 拜托音乐大声点｜Play the music louder
+- [ ] オゾン, 初音ミク - 花々春はまた廻る (feat. 初音ミク)
+- [ ] ヨルシカ - 老人と海
+- [ ] 上白石萌音 - なんでもないや (movie ver.)
+- [ ] ヨルシカ - ヒッチコック (Re-Recording)
+- [ ] DECO*27, 初音ミク - 心壊サミット
+- [ ] 當山みれい - よかった。
+- [ ] ヨルシカ - 花も騒めく
+- [ ] Yoanko Futura - VVSane
+- [ ] Perionfire - 川尻松子
+- [ ] Vansdaddy - 牧牛人
+- [ ] KIV, 艾志恒Asen - 铜锣湾 Tung Lo Wan
+- [ ] EasyPop, MORE MORE JUMP！ - ハッピーシンセサイザ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫)
+- [ ] 椎名林檎 - ここでキスして。
+- [ ] 连麻Swimming, 盛宇D-SHINE - 真资格（Feat. 盛宇D-SHINE Prod.Yokarza x Ouhboy）
+- [ ] 椎名林檎 - 丸ノ内サディスティック
+- [ ] mac ova seas - Wont Come Back（prod by Kimj & Rxn）
+- [ ] mac ova seas - Oh Lord（prod by.TREETIME）
+- [ ] 鸣潮先约电台, baitian, waka - 星辉抵达之日
+- [ ] 卡力老虎, Jesse Margiela, Taisheng Music - 邪恶的难以置信的
+- [ ] Duca - Memoria
+- [ ] YOASOBI - もう少しだけ
+- [ ] sawamurah - タ映え影二つ
+- [ ] mac ova seas, THOME, MULA SAKEE, 艾志恒Asen, TOYOKI, KIV, 付思遥 - 水泊梁山
+- [ ] 石田裕子 - Missin’ U
+- [ ] ProN4c - 夜には溺れて
+- [ ] Bloom-pn - 拝啓、夏に溺れる
+- [ ] MULA SAKEE - 大风歌（Legendary Status）
+- [ ] あたらよ - 今夜2人だけのダンスを
+- [ ] はな - 櫻ノ詩 -2023Mix-
+- [ ] 张方钊 - 倒带一辈子
+- [ ] SASIOVERLXRD - 真？？你Sōryū prod：HARUHI
+- [ ] Duca - ずっとそばで…
+- [ ] Frank Ocean - Day Away [Prod. Brain Kennedy]
+- [ ] Vansdaddy - 晴天四季
+- [ ] skiboyvv, Tphunk - 暗号
+- [ ] 水樹奈々 - ガラスの華
+- [ ] ヨルシカ - 詩書きとコーヒー
+- [ ] ProN4c - Relentless 喋喋不休
+- [ ] りりあ。 - 失恋ソング沢山聴いて 泣いてばかりの私はもう。
+- [ ] 冬馬かずさ - 心はいつもあなたのそばに
+- [ ] mac ova seas - The Notorious B.I.G.-Party&BullShit Remix（mac ova seas remix）
+- [ ] KenRobb, APMOZART - All（Prod.Aper&AllenJ）
+- [ ] Akemen, africakid, ATM Hanson, Taisheng Music - Goyard
+- [ ] Arthurnevawakes, R!R!Riot, Taco, Billionhappy - 666999
+- [ ] africakid, ATM Hanson, 贾真Jahgen, THOME - 圣罗兰男装
+- [ ] 黄之仪Kyra Zilver - #DBAA
+- [ ] 艾志恒Asen - 21个问题
+- [ ] 艾志恒Asen - 根
+- [ ] 脸红的思春期 - 썸 탈꺼야
+- [ ] SASIOVERLXRD - 四川街尼
+- [ ] JinJiBeWater_隼, SASIOVERLXRD - 熟肉
+- [ ] SASIOVERLXRD - 人马(Prod.TrezBOIGrout)
+- [ ] H1-KEY - 여름이었다
+- [ ] Vansdaddy - 讴歌
+- [ ] 张方钊, SASIOVERLXRD - 双向狂欢
+- [ ] APMOZART, MULA SAKEE - Blocboy
+- [ ] ずっと真夜中でいいのに。 - 猫リセット
+- [ ] ずっと真夜中でいいのに。 - 脳裏上のクラッカー
+- [ ] SABER徐天知 - 1080p
+- [ ] ProN4c - 当我杀了我自己
+- [ ] ProN4c - 溺死在夏天
+- [ ] BLACKPINK - 아니길 (Hope Not)
+- [ ] 宇多田ヒカル, 小袋成彬 - ともだち
+- [ ] MULA SAKEE - 见龙卸甲
+- [ ] H1-KEY - 불빛을 꺼뜨리지 마 (Time to Shine)
+- [ ] 宇多田ヒカル - B&C (Album Version)
+- [ ] yourbeagle - 행복
+- [ ] i-dle - 들어줘요
+- [ ] とあ, MORE MORE JUMP！, 初音ミク - ツギハギスタッカート (feat. 桃井愛莉&日野森雫&初音ミク)
+- [ ] MORE MORE JUMP！, 巡音ルカ - ももいろの鍵 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)
+- [ ] mac ova seas - 滤镜
+- [ ] Yunsae - 데리러 가 (DRRG)
+- [ ] H1-KEY - 뜨거워지자
+- [ ] 李佳隆 - 出人头地
+- [ ] SASIOVERLXRD, 2kc - 莫BB Ft. 2kc (Prod.Penacho)
+- [ ] SASIOVERLXRD - 男子校な314（Prod.Ghxst)
+- [ ] KEY.L刘聪, 李佳隆 - 散心
+- [ ] Vansdaddy, THOME - PeopleGetReady！
+- [ ] - Fate Cover by QWER
+- [ ] 本月少女 ODD EYE CIRCLE - LOONATIC
+- [ ] 本月少女 ODD EYE CIRCLE - Uncover
+- [ ] i-dle - 알고 싶어
+- [ ] BIBI - 데레
+- [ ] CRYCHIC - 人間になりたいうた
+- [ ] QWER - 안녕, 나의 슬픔
+- [ ] QWER - 가짜 아이돌
+- [ ] QWER - 내 이름 맑음
+- [ ] QWER - 고민중독
+- [ ] トゲナシトゲアリ - 空の箱 (井芹仁菜、河原木桃香)
+- [ ] Red Velvet - 搭车 (Carpool)
+- [ ] Red Velvet - 第二次约会 (My Second Date)
+- [ ] i-dle - 싫다고 말해
+- [ ] - Hurt（250 Remix）- NewJeans
+- [ ] - Attention（250 Remix）- NewJeans
+- [ ] - Ditto（250 Remix）- NewJeans
+- [ ] - 【桃代Momoka】可爱女人
+- [ ] - 【桃代Momoka】乌克丽丽
+- [ ] BEWAVE - 다시는 너의 손을 놓고 싶지 않아
+- [ ] IU - 가을 아침
+- [ ] IU - 무릎
+- [ ] IU - 푸르던
+- [ ] IU, 金昌万 - 너의 의미
+- [ ] aespa - 声音 (Melody)
+- [ ] 秋葵AKIAOI - 私じゃなかったんだね。 吉他弹唱
+- [ ] BEWAVE - 너에게로 가는 길이 너무 어려워
+- [ ] IU - 마음
+- [ ] i-dle - 나는 아픈 건 딱 질색이니까
+- [ ] 『ユイカ』 - 運命の人
+- [ ] ヨルシカ - 嘘月
+- [ ] 『ユイカ』 - 17さいのうた。
+- [ ] - 插到底 - JinJiBeWater_隼_SASIOVERLXRD
+- [ ] Kendrick Lamar - B***hface
+- [ ] 孙燕姿 - 任性
+- [ ] Mengzi - 孟子说Interlude
+- [ ] BOBBYNOPEACE - 回复术士的重启人生
+- [ ] 蔡健雅 - 达尔文
+- [ ] 柳多恋 - down down down
+- [ ] 郁米yumi_ - 썸 탈꺼야（some）
+- [ ] purplehazeee - spades, diamonds and clubs
+- [ ] IU - 스물셋
+- [ ] IU - 이 지금
+- [ ] IU, G-DRAGON - 팔레트
+- [ ] IU - 잼잼
+- [ ] IU - 마침표
+- [ ] IU - 밤편지
+- [ ] IU - 그렇게 사랑은
+- [ ] IU - 이름에게
+- [ ] IU - 삐삐
+- [ ] IU - 그 사람
+- [ ] IU - 시간의 바깥
+- [ ] 當山みれい - 願い～あの頃のキミへ～
+- [ ] purplehazeee - stay out of time / 域 地 之 外
+- [ ] purplehazeee - Earth / 地 囚
+- [ ] 真栗 - 写给我第一个喜欢的女孩的歌（Cover 洛天依）
+- [ ] 真栗 - 对你青睐-SHINING
+- [ ] purplehazeee - juice A+
+- [ ] purplehazeee - 我比其他稻草人多了一倍孤独
+- [ ] purplehazeee - 晚 安 / goodnight
+- [ ] purplehazeee - TiME MACHiNE / 時空飛行
+- [ ] purplehazeee - ᴵᵀ'ˢ ᴬ ᴸᴼᴺᴱᴸᵞ ᴿᴼᴬᴰ. (Prod. Kendo)
+- [ ] kous, ef - ○+●
+- [ ] 夏璃夜 - なんでもないや/没什么大不了 -Acoustic ver.-
+- [ ] 鹿乃 - この世界を愛したい
+- [ ] 江意间 - なんでもないや（没什么大不了）
+- [ ] 鹿乃 - 君がいる世界へ
+- [ ] 當山みれい - 願い～あの頃のキミへ～
+- [ ] 夏璃夜, Maxone老虎 - 没什么大不了（なんでもないや）（女声翻唱remix）
+- [ ] RADWIMPS - なんでもないや (movie ver.)
+- [ ] 孙燕姿 - 我怀念的
+- [ ] 方大同 - 三人游
+- [ ] 方大同 - 特别的人
+- [ ] 王以太 - 人间天堂
+- [ ] 李佳隆, 邓典果DDG - RAVEN
+- [ ] IU - 어푸
+- [ ] GALI, 李大奔BENZO - 卡通 (CARTOON)
+- [ ] Travis Scott - NC-17
+- [ ] 艾志恒Asen, Maikon Flocka Flame - 焦虑
+

@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5bb77eadc866d63c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9981e4311784d858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59436593fd792e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研数学/2026数二/高等数学/二重积分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二重积分"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad81d26941e5edd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cadedb8e7408d30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c0a54350c7f1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c2a938e3833a14e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "288e067842d20781",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "b28984958462bd9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f5b1607c2edb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23740890215bd0f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a7957af9665210a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "c903d3828e102973",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8472cbcc677b5342",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c060f011476911d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "b07a674a1a227946",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "考研数学/2026数二/高等数学/二重积分.md"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
+          },
+          {
+            "id": "e4d61d435bef03a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "32c0a54350c7f1c5",
+  "lastOpenFiles": [
+    "考研数学/2026数二/高等数学/定积分及其应用.md",
+    "考研数学/2026数二/复习/复习任务.md",
+    "考研数学/2026数二/高等数学/多元函数微分学及其应用.md",
+    "考研数学/2026数二/高等数学/微分总结.md",
+    "日记/日记首页.md",
+    "日记/小短篇/褪色的车票.md",
+    "日记/小短篇/小短篇目录.md",
+    "2026-07-30.md",
+    "创建链接.md",
+    "欢迎.md",
+    "Pasted image 20260806005501.png",
+    "Spotify丢失曲目清单.md",
+    "Pasted image 20260812013115.png",
+    "考研数学/2026数二/高等数学/导数与高阶导数公式速查.md",
+    "日记/每日/2026/2026-08/2026-08-15.md",
+    "日记/每日/2026/2026-08/2026-08-14.md",
+    "考研数学/2026数二/高等数学/泰勒公式与洛必达法则.md",
+    "考研数学/2026数二/高等数学/等价无穷小复习讲义.md",
+    "日记/每日/2026/2026-08/2026-08-13.md",
+    "日记/每日/2026/2026-08/2026-08-11.md",
+    "日记/每日/2026/2026-08/2026-08-10.md",
+    "日记/每日/2026/2026-08/2026-08-05.md",
+    "日记/每日/2026/2026-08/2026-08-04.md",
+    "日记/每日/2026/2026-08/2026-08-12.md",
+    "日记/每日/2026/2026-08/2026-08-07.md",
+    "日记/每日/2026/2026-08/2026-08-06.md",
+    "考研数学/2026数二/高等数学/求极限专题总结.md",
+    "考研数学/2026数二/高等数学/不定积分.md",
+    "日记/每日/2026/2026-08",
+    "考研数学/2026数二/学习进度.base",
+    "未命名.base",
+    "日记/每日/2026",
+    "日记/碎片",
+    "日记/每日",
+    "日记/模板",
+    "日记/小短篇",
+    "日记/人物与地点",
+    "日记",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-128.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-127.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-126.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-125.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-124.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-123.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-122.jpg",
+    "地质复习/普通地质学（舒良树）第三版 - 完整复习笔记.assets/figure-121.jpg"
+  ]
+}
